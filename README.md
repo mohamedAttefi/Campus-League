@@ -1,5 +1,3 @@
-# Cahier des charges
-
 ## 1. Contexte et objectif du projet
 
 Dans le cadre des activités sportives d’un établissement scolaire, ce projet vise à concevoir et développer une application web permettant de gérer une ligue scolaire de football. L’application mettra en avant une approche éducative en conditionnant la participation sportive des élèves à leurs résultats académiques.
